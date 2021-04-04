@@ -1,12 +1,6 @@
 # Shryan
 
-<a style="color: cornflowerblue;">Shryan is not a language. It is an <i>abstraction of thought.</i> </a>
-
-<a style="color: olive;">Shryan is a portmanteau of *shrei* and *yanre*, which means *intelligent words* in Shryan.</a>
-
-<a style="color: grey;"><i>SONG YIDING, Mar - Apr 2021</i></a>
-
-
+Shryan is a portmanteau of *shrei* and *yanre*, which means *intelligent words* in Shryan. It seeks to not be a language, but an abstraction of thought.
 
 ## Guiding Thoughts
 
@@ -25,3 +19,7 @@ Therefore, the following are the natural guiding questions behind Shryan's creat
 <div width="100%" style="text-align: center; font-weight: bold;">Can a language be not only powerful, but also lightweight and easy to learn?</div>
 
 <div width="100%" style="text-align: center; font-weight: bold;">How can we condense information in a language, while still maintaining interpretability?</div>
+
+## The Grammar
+
+Please view the complete Shryan grammar [here](\shryan.md).
