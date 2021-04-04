@@ -22,4 +22,4 @@ Therefore, the following are the natural guiding questions behind Shryan's creat
 
 ## The Grammar
 
-Please view the complete Shryan grammar [here](\shryan.md).
+Please view the complete Shryan grammar and vocabulary [here](complete_shryan.md).
